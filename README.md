@@ -24,5 +24,6 @@ providing an efficient basis for converting massive PDF books into EPUB format.<
 # Installation
 - Clone this repo:
 ```
-git clone
+git clone https://github.com/Jestain/PDF-to-EPUB-Converter.git
+cd PDF-to-EPUB-Converter
 ```
